@@ -26,6 +26,17 @@ https://business-science.github.io/modeltime/
 
 ### Explain AI
 
+DALEX:
+https://github.com/ModelOriented/DALEX
+
+IML:
+http://uc-r.github.io/iml-pkg
+
+Interpretable ML book:
+https://christophm.github.io/interpretable-ml-book/
+
+Explanatory Model Analysis:
+https://ema.drwhy.ai/
 
 ### Charts
 Several charts example:
@@ -51,6 +62,9 @@ https://deanattali.com/projects/
 Shiny Auth layer:
 https://github.com/PaulC91/shinyauthr
 
+Engineering production grade Shiny:
+https://engineering-shiny.org/
+
 ### Other Reporting
 
 These packages have been developed to facilitate the production of Word documents and PowerPoint presentations from and with R.
@@ -66,6 +80,7 @@ https://blog.simonpcouch.com/blog/r-github-actions-commit/?utm_campaign=Newslett
 
 Packrat:
 http://rstudio.github.io/packrat/
+
 
 ## Other Ressources
 
