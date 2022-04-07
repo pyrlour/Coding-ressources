@@ -13,6 +13,10 @@ https://www.tidymodels.org/
 Mastering Shiny:
 https://mastering-shiny.org/index.html
 
+### Data Exploration 
+
+https://cran.r-project.org/web/packages/DataExplorer/vignettes/dataexplorer-intro.html
+
 ### Modeling
 
 Bayesian Modeling:
@@ -44,6 +48,16 @@ https://r-charts.com/
 
 On choosing colors:
 https://blog.datawrapper.de/which-color-scale-to-use-in-data-vis/?utm_campaign=Newsletter%20Veille%20Data&utm_medium=email&utm_source=Revue%20newsletter
+
+### Maps
+Simple tutorial
+https://thinkr.fr/sil-te-plait-dessine-moi-carte-r/
+
+More advanced
+https://rstudio-pubs-static.s3.amazonaws.com/47698_6effe42ff227451ab364b393d0bcf495.html
+
+How to use leaflet (the best):
+https://rstudio.github.io/leaflet/
 
 ### Shiny
 
