@@ -7,6 +7,9 @@ A list of R ressources
 If you want a global overview of what you can do with R (or just learn the basics):
 https://r4ds.had.co.nz/index.html
 
+On how to write code :
+https://style.tidyverse.org/index.html
+
 If you want to go deeper on modeling:
 https://www.tidymodels.org/
 
