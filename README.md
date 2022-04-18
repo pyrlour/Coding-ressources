@@ -52,6 +52,8 @@ https://r-charts.com/
 On choosing colors:
 https://blog.datawrapper.de/which-color-scale-to-use-in-data-vis/?utm_campaign=Newsletter%20Veille%20Data&utm_medium=email&utm_source=Revue%20newsletter
 
+BBC style chart: https://bbc.github.io/rcookbook/
+
 ### Maps
 Simple tutorial
 https://thinkr.fr/sil-te-plait-dessine-moi-carte-r/
@@ -73,6 +75,8 @@ https://github.com/grabear/awesome-rshiny
 List of ressources:
 https://github.com/nanxstats/awesome-shiny-extensions
 
+Outstanding Shiny UI: https://unleash-shiny.rinterface.com/index.html
+
 Some projects example:
 https://deanattali.com/projects/
 
@@ -81,6 +85,9 @@ https://github.com/PaulC91/shinyauthr
 
 Engineering production grade Shiny:
 https://engineering-shiny.org/
+
+Examples:
+https://www.r-bloggers.com/2022/03/r-shiny-in-life-sciences-top-7-dashboard-examples/
 
 ### Other Reporting
 
@@ -92,12 +99,15 @@ https://github.com/seankross/postcards
 
 ### Production in R
 
+Targets Package: https://books.ropensci.org/targets/
+
 Github Actions:
 https://blog.simonpcouch.com/blog/r-github-actions-commit/?utm_campaign=Newsletter%20Veille%20Data&utm_medium=email&utm_source=Revue%20newsletter
 
 Packrat:
 http://rstudio.github.io/packrat/
 
+Azure ML with R: https://github.com/revodavid/mlops-r
 
 ## Other Ressources
 
@@ -132,7 +142,10 @@ https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf?re
 Solutions to cracking coding interview in Python:
 https://github.com/arpankg/ctci-python-solutions
 
-### Modeling on crypto
+### Finance
+https://tidy-finance.org/
+
+### Crypto
 https://cryptocurrencyresearch.org/introduction.html
 
 ### Interview Questions
