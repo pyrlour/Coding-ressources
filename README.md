@@ -46,6 +46,10 @@ Explanatory Model Analysis:
 https://ema.drwhy.ai/
 
 ### Charts
+
+ggplot2 extension:
+https://exts.ggplot2.tidyverse.org/
+
 Several charts example:
 https://r-charts.com/
 
