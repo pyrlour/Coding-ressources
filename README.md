@@ -53,6 +53,9 @@ https://exts.ggplot2.tidyverse.org/
 Several charts example:
 https://r-charts.com/
 
+Top 50 charts :
+http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html
+
 On choosing colors:
 https://blog.datawrapper.de/which-color-scale-to-use-in-data-vis/?utm_campaign=Newsletter%20Veille%20Data&utm_medium=email&utm_source=Revue%20newsletter
 
